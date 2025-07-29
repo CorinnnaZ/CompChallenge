@@ -1,10 +1,15 @@
 # CompPhysChallenge
 ## Distribution of Tasks
 **Reuben**: 
+  **WEDNESDAY:**
   - Task 3: tidy up - calculate and demonstrate the minimum of the curve & add a slider function to it
   - Task 4: basically the same as number 3 (wrt specific issues stated in the task)
   - Task 11: finish 11C (add the colours) and 11D (add slider for the solar_angle)
+
+  **THURSDAY**
   - Task 12A: do the whole task!! -- nothing too fancy, just a dynamic model of white light in a prism. The calculations are simple just the visualisation of stuff will be through functions (the triangle will just be intersecting linear functions).
+
+  **SATURDAY -> TUESDAY**
   - Extension:
     - do the whole task!! -- need to make the ABM of cloud chamber/rayleigh scattering that is moving. May not be in matplotlib but rather pygame that just shows that shorter wavelength light refracts the most and stays in the atmosphere (both Rayleigh and Mei scattering are not really geometric optics but it is a good abstraction)
     - do some writeup of the calculations for this extension task in a document and maybe attempt some of the questions (to have some basis of the extension being an ongoing task)
