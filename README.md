@@ -16,8 +16,7 @@
    
 **Corinna**:
  **No time specified (bad at scheduling lol)**
- - Complete task 10
- - add overlay rays for task 5-10
+ - plan what to say in recording
  - screenrecord and edit submission video
 
 ### Relevant documents:
