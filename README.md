@@ -1,8 +1,19 @@
 # CompPhysChallenge
 ## Distribution of Tasks
 **Reuben**: 
- - Finish extension
- - Write scripts for each section (to be recorded today/tmr)
+ **Before Sleeping**:
+  - Testing heatmap code
+  - Updating extension code with geometric ray calculations (over the algebraic ones)
+ **After Waking-Up**:
+  - Get rays to handle all collisions within the domain of the plotting environment
+  - Customise the number of raindrops and rays using ipy.interact(_manual) and try to quantify the amount of compute used
+  - See how I can cause the rays to only display for a maximum length (L), then extract the coordinate of this final point (to place into a big matrix)
+  - Get updated (faster) voice recordings sent off to Corinna
+**Before submission**:
+ - Get LaTeX file added onto the GitHub (doesn't actually need to be done yet since I can update the GitHub after the day but whatever)
+ - Adjusted requirements for recording sent off
+ - Get the heatmap plotted and write the conclusion of this into the file 
+
    
 **Corinna**:
  **No time specified (bad at scheduling lol)**
