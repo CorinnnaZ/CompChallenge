@@ -5,7 +5,6 @@
  **After Waking-Up**:
   - Customise the number of raindrops and rays using ipy.interact(_manual) and try to quantify the amount of compute used
   - See how I can cause the rays to only display for a maximum length (L), then extract the coordinate of this final point (to place into a big matrix)
-  - Get updated (faster) voice recordings sent off to Corinna
     
 **Before submission**:
  - Get LaTeX file added onto the GitHub (doesn't actually need to be done yet since I can update the GitHub after the day but whatever)
