@@ -3,7 +3,6 @@
 **Reuben**: 
 
  **After Waking-Up**:
-  - Get rays to handle all collisions within the domain of the plotting environment
   - Customise the number of raindrops and rays using ipy.interact(_manual) and try to quantify the amount of compute used
   - See how I can cause the rays to only display for a maximum length (L), then extract the coordinate of this final point (to place into a big matrix)
   - Get updated (faster) voice recordings sent off to Corinna
